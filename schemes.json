@@ -1,0 +1,716 @@
+[
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": "class_8",
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Margin money subsidy of 15-35% on project cost for setting up new micro-enterprises; balance financed as bank loan.",
+    "application_link": "https://www.kviconline.gov.in/pmegpeportal/",
+    "plain_language_summary": "Government help to start a small business or workshop — part of the cost is a subsidy you don't repay, the rest is a bank loan."
+  },
+  {
+    "id": "standup-india",
+    "name": "Stand-Up India",
+    "ministry": "Department of Financial Services",
+    "eligibility": {
+      "category": [
+        "sc",
+        "st"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Bank loans between ₹10 lakh and ₹1 crore for at least one SC/ST or woman entrepreneur per bank branch, for greenfield enterprises.",
+    "application_link": "https://www.standupmitra.in/",
+    "plain_language_summary": "Bank loans specifically reserved for SC/ST entrepreneurs and women starting a new manufacturing, trading, or services business."
+  },
+  {
+    "id": "mudra-shishu",
+    "name": "Pradhan Mantri Mudra Yojana — Shishu",
+    "ministry": "Ministry of Finance",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Collateral-free loans up to ₹50,000 for micro and small businesses at the earliest stage.",
+    "application_link": "https://www.mudra.org.in/",
+    "plain_language_summary": "A small, no-collateral loan (up to ₹50,000) to start or run a very small business — from any bank or NBFC."
+  },
+  {
+    "id": "mudra-kishor",
+    "name": "Pradhan Mantri Mudra Yojana — Kishor",
+    "ministry": "Ministry of Finance",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "existing",
+      "states": "all"
+    },
+    "benefits": "Loans between ₹50,000 and ₹5 lakh for businesses that are already running and need to expand.",
+    "application_link": "https://www.mudra.org.in/",
+    "plain_language_summary": "A bigger loan (₹50,000 to ₹5 lakh) for a business that already exists and wants to grow."
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM SVANidhi (Street Vendor's AtmaNirbhar Nidhi)",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "street_vendor",
+      "states": "all"
+    },
+    "benefits": "Collateral-free working capital loan up to ₹10,000 (first tranche), with higher renewal amounts on timely repayment, plus interest subsidy.",
+    "application_link": "https://pmsvanidhi.mohua.gov.in/",
+    "plain_language_summary": "A small working-capital loan for street vendors and hawkers, with a cash-back-style interest subsidy for repaying on time."
+  },
+  {
+    "id": "mahila-udyam-nidhi",
+    "name": "Mahila Udyam Nidhi Scheme",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Soft loans up to ₹10 lakh for women entrepreneurs to set up new small-scale ventures or modernise existing ones.",
+    "application_link": "https://www.sidbi.in/",
+    "plain_language_summary": "Low-interest loans for women setting up or upgrading a small business."
+  },
+  {
+    "id": "annapurna-scheme",
+    "name": "Annapurna Scheme",
+    "ministry": "State-run (via nationalised banks)",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "food_business",
+      "states": "all"
+    },
+    "benefits": "Loans up to ₹50,000 for women to set up a food catering or small food business, with equipment as collateral.",
+    "application_link": "https://www.startupindia.gov.in/",
+    "plain_language_summary": "A loan for women starting a food stall, tiffin service, or catering business — the equipment you buy secures the loan."
+  },
+  {
+    "id": "ambedkar-scst-hub",
+    "name": "National SC/ST Hub — Dr. Ambedkar Scheme",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "sc",
+        "st"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Handholding support, capital subsidy, and reimbursement for SC/ST entrepreneurs including special credit and marketing support.",
+    "application_link": "https://scsthub.in/",
+    "plain_language_summary": "Special support and subsidies for SC/ST business owners, including help getting bank credit and finding buyers."
+  },
+  {
+    "id": "tread-scheme",
+    "name": "TREAD Scheme for Women",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Grant covering up to 30% of the project cost for women entrepreneurs, routed through NGOs, plus training and counselling.",
+    "application_link": "https://msme.gov.in/",
+    "plain_language_summary": "A grant and training program for women, delivered through local NGOs, to help set up trade-related businesses."
+  },
+  {
+    "id": "startup-india-seed-fund",
+    "name": "Startup India Seed Fund Scheme",
+    "ministry": "Department for Promotion of Industry and Internal Trade",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Financial assistance up to ₹20 lakh for proof of concept and up to ₹50 lakh for market entry, given via approved incubators.",
+    "application_link": "https://seedfund.startupindia.gov.in/",
+    "plain_language_summary": "Seed money for a new, DPIIT-recognised startup with an innovative product — applied for through an approved incubator, not directly."
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": "PM Vishwakarma Scheme",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "artisan",
+      "states": "all"
+    },
+    "benefits": "Recognition certificate, skill training with stipend, toolkit incentive, and collateral-free loans up to ₹3 lakh in two tranches.",
+    "application_link": "https://pmvishwakarma.gov.in/",
+    "plain_language_summary": "For traditional artisans and craftspeople (potters, weavers, carpenters, etc.) — training, tools, and easy loans."
+  },
+  {
+    "id": "cgtmse",
+    "name": "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Collateral-free credit guarantee cover on loans up to ₹5 crore for micro and small enterprises, making banks more willing to lend.",
+    "application_link": "https://www.cgtmse.in/",
+    "plain_language_summary": "Doesn't give you money directly — it guarantees your bank loan so you don't need to put up collateral."
+  },
+  {
+    "id": "vcf-sc",
+    "name": "Venture Capital Fund for Scheduled Castes",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "eligibility": {
+      "category": [
+        "sc"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Equity or equity-like funding for viable business ideas by SC entrepreneurs, managed by IFCI Ltd.",
+    "application_link": "https://vcf-sc.in/",
+    "plain_language_summary": "Investment-style funding (not a loan) for SC entrepreneurs with a solid business plan."
+  },
+  {
+    "id": "vcf-st",
+    "name": "Venture Capital Fund for Scheduled Tribes",
+    "ministry": "Ministry of Tribal Affairs",
+    "eligibility": {
+      "category": [
+        "st"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Equity or equity-like funding for viable business ideas by ST entrepreneurs, managed by IFCI Ltd.",
+    "application_link": "https://vcf-st.in/",
+    "plain_language_summary": "Investment-style funding (not a loan) for ST entrepreneurs with a solid business plan."
+  },
+  {
+    "id": "nbcfdc-term-loan",
+    "name": "NBCFDC Term Loan Scheme (OBC)",
+    "ministry": "National Backward Classes Finance & Development Corporation",
+    "eligibility": {
+      "category": [
+        "obc"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": 300000,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Concessional-rate term loans for income-generating activities for OBC individuals below the notified income ceiling.",
+    "application_link": "https://www.nbcfdc.gov.in/",
+    "plain_language_summary": "Low-interest loans for OBC individuals with limited household income to start an income-earning activity."
+  },
+  {
+    "id": "mahila-e-haat",
+    "name": "Mahila e-Haat",
+    "ministry": "Ministry of Women and Child Development",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Free online marketing platform for women entrepreneurs and self-help groups to showcase and sell products directly.",
+    "application_link": "https://mahilaehaat-rmk.gov.in/",
+    "plain_language_summary": "A free online marketplace where women can list and sell what they make, with no listing fee."
+  },
+  {
+    "id": "pmfme",
+    "name": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+    "ministry": "Ministry of Food Processing Industries",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "food_business",
+      "states": "all"
+    },
+    "benefits": "Credit-linked subsidy of 35% of eligible project cost (up to ₹10 lakh) for upgrading unregistered micro food processing units.",
+    "application_link": "https://pmfme.mofpi.gov.in/",
+    "plain_language_summary": "Subsidy to formalise and upgrade a small food-processing or home-food business — pickles, snacks, dairy, etc."
+  },
+  {
+    "id": "nulm-sep",
+    "name": "NULM Self Employment Programme",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "urban_poor",
+      "states": "all"
+    },
+    "benefits": "Subsidised bank loans with interest subsidy for urban poor individuals setting up individual or group micro-enterprises.",
+    "application_link": "https://nulm.gov.in/",
+    "plain_language_summary": "Cheaper loans for urban poor residents starting a small business, with the government covering part of the interest."
+  },
+  {
+    "id": "sfurti",
+    "name": "SFURTI — Scheme of Fund for Regeneration of Traditional Industries",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Support for traditional industries and artisans through cluster development, common facilities, product development, quality improvement, marketing, training and capacity building.",
+    "application_link": "https://sfurti.msme.gov.in/",
+    "plain_language_summary": "Support for traditional industries and artisans, mainly delivered through cluster-based projects and implementing agencies."
+  },
+  {
+    "id": "aspire",
+    "name": "ASPIRE — Innovation, Rural Industry & Entrepreneurship",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Supports rural entrepreneurship, incubation and innovation, especially in agro-industry and rural livelihood activities.",
+    "application_link": "https://aspire.msme.gov.in/",
+    "plain_language_summary": "A government program supporting rural entrepreneurship, incubation and innovation, especially around agro-industry."
+  },
+  {
+    "id": "startup-india-recognition",
+    "name": "Startup India",
+    "ministry": "Department for Promotion of Industry and Internal Trade",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Government startup ecosystem and recognition support, including access to startup resources and schemes.",
+    "application_link": "https://www.startupindia.gov.in/",
+    "plain_language_summary": "The official Startup India platform for startup recognition, resources and government support."
+  },
+  {
+    "id": "atal-innovation-mission",
+    "name": "Atal Innovation Mission (AIM)",
+    "ministry": "NITI Aayog",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "new",
+      "states": "all"
+    },
+    "benefits": "Innovation and entrepreneurship ecosystem support through NITI Aayog initiatives.",
+    "application_link": "https://aim.gov.in/",
+    "plain_language_summary": "NITI Aayog's innovation and entrepreneurship ecosystem, useful for innovators and startup-oriented applicants."
+  },
+  {
+    "id": "coir-board-support",
+    "name": "Coir Board — Coir Business Support",
+    "ministry": "Coir Board, Ministry of MSME",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Support and development resources for coir-based businesses and workers.",
+    "application_link": "https://www.coirboard.gov.in/",
+    "plain_language_summary": "Official Coir Board support and development resources for coir-based enterprises and workers."
+  },
+  {
+    "id": "women-entrepreneurship-platform",
+    "name": "Women Entrepreneurship Platform (WEP)",
+    "ministry": "NITI Aayog",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "female",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "A platform connecting women entrepreneurs with information, support and ecosystem resources.",
+    "application_link": "https://wep.gov.in/",
+    "plain_language_summary": "A NITI Aayog platform designed to support women entrepreneurs with ecosystem resources and information."
+  },
+  {
+    "id": "msme-development-institutes",
+    "name": "MSME Development Institutes",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "MSME support, training, development and handholding through MSME Development Institutes.",
+    "application_link": "https://msmedi.dcmsme.gov.in/",
+    "plain_language_summary": "Local MSME support, training and development resources for entrepreneurs."
+  },
+  {
+    "id": "niesbud",
+    "name": "NIESBUD Entrepreneurship Training",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Entrepreneurship education, training and development support.",
+    "application_link": "https://www.niesbud.nic.in/",
+    "plain_language_summary": "Entrepreneurship training and development resources from the National Institute for Entrepreneurship and Small Business Development."
+  },
+  {
+    "id": "iie",
+    "name": "Indian Institute of Entrepreneurship (IIE)",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Entrepreneurship education, training and development resources.",
+    "application_link": "https://www.iie.gov.in/",
+    "plain_language_summary": "Entrepreneurship education, training and development support from IIE."
+  },
+  {
+    "id": "gem",
+    "name": "Government e-Marketplace (GeM)",
+    "ministry": "Government of India",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "existing",
+      "states": "all"
+    },
+    "benefits": "Government procurement marketplace where eligible businesses can participate in public procurement.",
+    "application_link": "https://www.gem.gov.in/",
+    "plain_language_summary": "The Government e-Marketplace for businesses seeking government procurement opportunities."
+  },
+  {
+    "id": "ip-india",
+    "name": "Intellectual Property India",
+    "ministry": "Department for Promotion of Industry and Internal Trade",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Official services for patents, trademarks, designs and other intellectual property matters.",
+    "application_link": "https://www.ipindia.gov.in/",
+    "plain_language_summary": "Official intellectual-property services for entrepreneurs protecting inventions, brands and designs."
+  },
+  {
+    "id": "msme-technology-centres",
+    "name": "MSME Technology Centres",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "resource_only": true,
+    "eligibility": {
+      "category": [
+        "general",
+        "sc",
+        "st",
+        "obc",
+        "minority"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "income_max": null,
+      "gender": "any",
+      "education_min": null,
+      "business_stage": "any",
+      "states": "all"
+    },
+    "benefits": "Technical, training and business support through MSME Technology Centres.",
+    "application_link": "https://www.msme.gov.in/technology-centres",
+    "plain_language_summary": "Technical and training support for entrepreneurs through MSME Technology Centres."
+  }
+]

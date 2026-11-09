@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: schemesetu
+    runtime: node
+    plan: starter
+    region: singapore
+    buildCommand: npm run install:all && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    disk:
+      name: schemesetu-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_PATH
+        value: /var/data/schemesetu.db
+      - key: JWT_SECRET
+        generateValue: true
+      - key: HOST_EMAIL
+        sync: false
+      - key: HOST_PASSWORD
+        generateValue: true
+      - key: PUBLIC_ORIGIN
+        sync: false
