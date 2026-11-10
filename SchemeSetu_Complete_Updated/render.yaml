@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: schemesetu
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: npm run install:all && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: HOST_EMAIL
+        sync: false
+      - key: HOST_PASSWORD
+        generateValue: true
+      - key: PUBLIC_ORIGIN
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.6-flash

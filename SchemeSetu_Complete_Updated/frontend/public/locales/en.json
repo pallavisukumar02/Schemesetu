@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "logout": "Log out",
+    "login": "Log in"
+  },
+  "home": {
+    "headline": "Find the government schemes you actually qualify for.",
+    "subhead": "SchemeSetu matches your profile against real schemes for SC/ST/OBC, women, and rural micro-entrepreneurs — and shows you exactly why each one matched.",
+    "cta": "Check my matches",
+    "noCost": "Free, takes 3 minutes",
+    "impactPlaceholder": "[INSERT VERIFIED STAT]",
+    "feature1Title": "Transparent matching",
+    "feature1Body": "Every match shows the exact reasons it qualified — never a black box.",
+    "feature2Title": "Works in your language",
+    "feature2Body": "Available in English, Hindi, Telugu, Tamil, Kannada, and Malayalam.",
+    "feature3Title": "Track your applications",
+    "feature3Body": "See every scheme you've matched, applied to, or been approved for, in one place.",
+    "heroTagline": "Bridge the gap between eligibility, preparation and the official application.",
+    "openApp": "Open SchemeSetu",
+    "seeConnections": "See how it connects",
+    "transparent": "Transparent matching",
+    "official": "Official portals",
+    "tracker": "Application tracker",
+    "voiceCamera": "Voice + camera",
+    "trustKicker": "BUILT AROUND OFFICIAL SOURCES",
+    "trustLine": "Government portal at the end — never a fake approval screen.",
+    "journey": "THE SCHEMESETU JOURNEY",
+    "journeyHeading": "Everything you need before you hit Apply.",
+    "journeyDesc": "One polished workspace for discovery, readiness and follow-through.",
+    "matchHeading": "Know what fits — and why.",
+    "matchBody": "Profile-based eligibility matching with visible reasons, gaps and verification points.",
+    "prepareHeading": "Turn eligibility into action.",
+    "prepareBody": "Document checklists, business outline, readiness checks and direct official links.",
+    "trackHeading": "Keep every application together.",
+    "trackBody": "Reference IDs, status timeline, notes and notification history in one account.",
+    "connectHeading": "Designed for real government workflows.",
+    "connectBody": "Official portal handoff today, with API and webhook architecture for authorized real-time status updates.",
+    "accessKicker": "ACCESS BY DESIGN",
+    "accessHeading": "Built for the way people actually use a public-service app.",
+    "accessBody": "Switch the entire interface between English, Hindi, Telugu, Tamil, Kannada and Malayalam. Use voice input, camera capture and simple guided steps when typing is not the easiest option.",
+    "readyKicker": "READY WHEN YOU ARE",
+    "readyHeading": "Start with your profile. Leave the guesswork behind.",
+    "privacy": "Privacy",
+    "footer": "Eligibility guidance · official-source handoff · privacy-first account",
+    "matchTitle": "MATCH",
+    "prepareTitle": "PREPARE",
+    "trackTitle": "TRACK",
+    "connectTitle": "CONNECT",
+    "profileLabel": "Profile",
+    "eligibilityLabel": "Eligibility",
+    "applicationLabel": "Application",
+    "yourMatches": "YOUR MATCHES",
+    "strongFits": "3 strong fits",
+    "explore": "Explore"
+  },
+  "login": {
+    "title": "Log in with your phone number",
+    "devModeNotice": "Dev mode: no real SMS is sent. Any phone number logs you in — the next screen just confirms it.",
+    "phoneLabel": "Phone number",
+    "sendOtp": "Send OTP",
+    "otpLabel": "Enter the OTP",
+    "verifying": "Verifying…",
+    "continue": "Continue",
+    "sending": "Sending…",
+    "e164Hint": "Include the country code, e.g. +91 for India.",
+    "changeNumber": "Use a different number",
+    "sessionExpiredNotice": "Your session expired — please log in again."
+  },
+  "onboarding": {
+    "title": "Tell us about yourself",
+    "subhead": "This helps us match you to schemes you actually qualify for. You can speak your answers using the mic button.",
+    "consentRequired": "Please accept the consent checkbox to continue.",
+    "name": "Full name",
+    "age": "Age",
+    "gender": "Gender",
+    "genderOptions": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "category": "Social category",
+    "categoryOptions": {
+      "general": "General",
+      "sc": "Scheduled Caste (SC)",
+      "st": "Scheduled Tribe (ST)",
+      "obc": "Other Backward Class (OBC)",
+      "minority": "Minority"
+    },
+    "state": "State",
+    "district": "District",
+    "incomeBracket": "Household income",
+    "incomeOptions": {
+      "below_1l": "Below ₹1 lakh",
+      "1l_3l": "₹1–3 lakh",
+      "3l_6l": "₹3–6 lakh",
+      "6l_10l": "₹6–10 lakh",
+      "above_10l": "Above ₹10 lakh"
+    },
+    "educationLevel": "Education level",
+    "educationOptions": {
+      "none": "No formal education",
+      "class_8": "Up to Class 8",
+      "class_10": "Up to Class 10",
+      "class_12": "Up to Class 12",
+      "graduate": "Graduate",
+      "postgraduate": "Postgraduate"
+    },
+    "businessType": "Business type",
+    "businessOptions": {
+      "new": "Starting a new business",
+      "existing": "Running an existing business",
+      "street_vendor": "Street vendor",
+      "artisan": "Artisan / craftsperson",
+      "food_business": "Food business",
+      "urban_poor": "Urban low-income worker"
+    },
+    "disabilityStatus": "Disability status",
+    "consentText": "I consent to my information being stored to track my scheme applications.",
+    "saving": "Saving…",
+    "submit": "See my matches",
+    "selectPlaceholder": "Select",
+    "selectStateFirst": "Pick a state first"
+  },
+  "camera": {
+    "permissionDenied": "Camera access was denied. You can skip this and add a photo later.",
+    "open": "Open camera",
+    "capture": "Take photo",
+    "retake": "Retake"
+  },
+  "voice": {
+    "speak": "Speak your answer",
+    "unsupported": "Voice input isn't supported in this browser"
+  },
+  "scheme": {
+    "viewDetails": "View details"
+  },
+  "dashboard": {
+    "title": "Your applications",
+    "subhead": "Update the status yourself after checking the scheme's official portal — we don't pull live status automatically.",
+    "loading": "Loading…",
+    "loadError": "Couldn't load your applications. Please try again.",
+    "empty": "No matched schemes yet — complete your profile to see matches.",
+    "manualStatusNote": "Update this after checking the official portal.",
+    "officialPortal": "Go to official portal"
+  },
+  "schemeDetail": {
+    "notFound": "Scheme not found.",
+    "back": "← Back to dashboard",
+    "benefits": "Benefits",
+    "apply": "Apply on official portal"
+  }
+}
